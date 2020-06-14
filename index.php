@@ -3,7 +3,7 @@ Welcome to My Web Page
   <br />
   <pre>
   
-  <?php>
+  <? php>
   
   print `ifconfig`;
   
